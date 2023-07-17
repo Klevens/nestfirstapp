@@ -10,8 +10,11 @@
     
 
 ## Description
+I made this RestAPI following [Fazt](https://www.youtube.com/watch?v=7fOjuCGE_jk&t=2230s) tutorial.
 
 Using the [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+
 
 ## Installation
 
